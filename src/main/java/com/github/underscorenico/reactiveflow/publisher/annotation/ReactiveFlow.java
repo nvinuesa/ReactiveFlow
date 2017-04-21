@@ -1,6 +1,6 @@
-package com.github.underscorenico.reactiveflow.annotation;
+package com.github.underscorenico.reactiveflow.publisher.annotation;
 
-import com.github.underscorenico.reactiveflow.ReactiveFlowApplication;
+import com.github.underscorenico.reactiveflow.publisher.ReactiveFlowApplication;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.Documented;
